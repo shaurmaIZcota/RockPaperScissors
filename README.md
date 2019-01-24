@@ -1,1 +1,1 @@
-# RockPaperScissors.github.io
+# RockPaperScissors
